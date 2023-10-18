@@ -1,0 +1,19 @@
+Item: Lista
+Numero de itens: 1000
+Nome do Arquivo: listn1.txt
+-------------------------------------
+Comparacoes: 9669
+Tempo gasto: 0
+-------------------------------------
+Comparacoes: 9702
+Tempo gasto: 1
+-------------------------------------
+Comparacoes: 9721
+Tempo gasto: 1
+-------------------------------------
+Comparacoes: 9746
+Tempo gasto: 0
+-------------------------------------
+Comparacoes: 9679
+Tempo gasto: 0
+-------------------------------------

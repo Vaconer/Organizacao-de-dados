@@ -1,0 +1,19 @@
+Item: Struct
+Numero de itens: 1000
+Nome do Arquivo: structn1.txt
+-------------------------------------
+Comparacoes: 8713
+Tempo gasto: 28
+-------------------------------------
+Comparacoes: 8740
+Tempo gasto: 40
+-------------------------------------
+Comparacoes: 8695
+Tempo gasto: 58
+-------------------------------------
+Comparacoes: 8741
+Tempo gasto: 43
+-------------------------------------
+Comparacoes: 8722
+Tempo gasto: 45
+-------------------------------------

@@ -1,0 +1,19 @@
+Item: Struct
+Numero de itens: 100000
+Nome do Arquivo: structn3.txt
+-------------------------------------
+Comparacoes: 1536358
+Tempo gasto: 3543
+-------------------------------------
+Comparacoes: 1536301
+Tempo gasto: 2704
+-------------------------------------
+Comparacoes: 1536213
+Tempo gasto: 2497
+-------------------------------------
+Comparacoes: 1536199
+Tempo gasto: 2473
+-------------------------------------
+Comparacoes: 1536383
+Tempo gasto: 2878
+-------------------------------------

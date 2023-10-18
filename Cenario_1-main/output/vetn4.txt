@@ -1,0 +1,19 @@
+Item: Vetor
+Numero de itens: 1000000
+Nome do Arquivo: vetn4.txt
+-------------------------------------
+Comparacoes: 18674411
+Tempo gasto: 666
+-------------------------------------
+Comparacoes: 18674727
+Tempo gasto: 933
+-------------------------------------
+Comparacoes: 18674728
+Tempo gasto: 602
+-------------------------------------
+Comparacoes: 18673895
+Tempo gasto: 585
+-------------------------------------
+Comparacoes: 18675047
+Tempo gasto: 563
+-------------------------------------

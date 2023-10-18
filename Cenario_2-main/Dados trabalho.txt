@@ -1,0 +1,93 @@
+Quicksort Recursivo: 
+1000: 0 microssegundos
+Comparações: 10128
+
+5000: 999 microssegundos 
+Comparações: 71334
+
+10000: 998 microssegundos
+Comparações: 157212
+
+50000: 6981 microssegundos
+Comparações: 963612
+
+100000: 15958 microssegundos 
+Comparações: 2068735
+
+500000: 94747 microssegundos
+Comparações: 2068735
+
+1000000: 228388 microssegundos
+Comparações: 33856590
+
+/--------------------------------------/
+
+QuickSort Mediana: 
+1000: 0 microssegundos
+Comparações: 9354
+
+5000: 999 microssegundos
+Comparações: 60119
+
+10000: 1995 microssegundos
+Comparações: 134414
+
+50000: 6981 microssegundos
+Comparações: 842195
+
+100000: 15957 microssegundos
+Comparações: 1763029
+
+500000: 96742 microssegundos
+Comparações: 12981963
+
+1000000: 230382 microssegundos
+Comparações: 31854376
+
+/-------------------------------/
+QuickSort Inserção:
+
+1000: 0 microssegundos
+Comparações: 11335
+
+5000: 998 microssegundos
+Comparações: 65438
+
+10000: 997 microssegundos
+Comparações: 141106
+
+50000: 8976 microssegundos
+Comparações: 882886
+
+100000: 20945 microssegundos
+Comparações: 2036461
+
+500000: 135671 microssegundos
+Comparações: 14042861
+
+1000000: 345111 microssegundos
+Comparações: 34529769
+
+/----------------------------------/
+
+QuickSort Iterativo: 
+1000: 0 microssegundos
+Comparações: 10685
+
+5000: 998 microssegundos
+Comparações: 75371
+
+10000: 998 microssegundos
+Comparações: 151520
+
+50000: 6981 microssegundos
+Comparações: 966466
+
+100000: 15958 microssegundos
+Comparações: 2007054
+
+500000: 92753 microssegundos
+Comparações: 13368406
+
+1000000: 228391 microssegundos
+Comparações: 34766715

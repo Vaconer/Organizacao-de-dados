@@ -1,0 +1,19 @@
+Item: Vetor
+Numero de itens: 100000
+Nome do Arquivo: vetn3.txt
+-------------------------------------
+Comparacoes: 1536473
+Tempo gasto: 71
+-------------------------------------
+Comparacoes: 1536569
+Tempo gasto: 90
+-------------------------------------
+Comparacoes: 1536318
+Tempo gasto: 122
+-------------------------------------
+Comparacoes: 1536385
+Tempo gasto: 110
+-------------------------------------
+Comparacoes: 1536516
+Tempo gasto: 85
+-------------------------------------

@@ -1,0 +1,19 @@
+Item: Vetor
+Numero de itens: 1000
+Nome do Arquivo: vetn1.txt
+-------------------------------------
+Comparacoes: 8708
+Tempo gasto: 1
+-------------------------------------
+Comparacoes: 8724
+Tempo gasto: 1
+-------------------------------------
+Comparacoes: 8725
+Tempo gasto: 1
+-------------------------------------
+Comparacoes: 8728
+Tempo gasto: 0
+-------------------------------------
+Comparacoes: 8715
+Tempo gasto: 0
+-------------------------------------
